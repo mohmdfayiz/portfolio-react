@@ -18,7 +18,7 @@ const About = () => {
             designing, development and implementation of functional solutions
             for problems.
           </p>
-          <a href={Resume} download="" className="button button--flex">
+          <a href={Resume} download={""} className="button button--flex">
             My Resume
             <svg
               className="button__icon"
