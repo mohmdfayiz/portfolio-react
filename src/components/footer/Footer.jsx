@@ -16,7 +16,7 @@ const Footer = () => {
             <i className="uil uil-twitter-alt"></i>
           </a>
           <a
-            href="http://www.linkedin.com/in/mohammed-fayis-869185250/"
+            href="https://www.linkedin.com/in/mohammedfayis/"
             className="footer__social-link"
             rel="noreferrer"
             target="_blank"
