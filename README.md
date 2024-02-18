@@ -1,2 +1,2 @@
 ## Personal Portfolio
->> made using React js
+> made using React js
