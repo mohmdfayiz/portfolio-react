@@ -56,7 +56,7 @@ const Data = () => {
 
       <h3 className="home__subtitle">Full Stack Developer</h3>
       <p className="home__description">
-        I&lsquo;am a self-taught full stack (MERN) developer based in Kerala - India. I am
+        I&lsquo;am a self-taught full stack developer based in Kerala, India. I am
         very passionate and dedicated to my work.
       </p>
 

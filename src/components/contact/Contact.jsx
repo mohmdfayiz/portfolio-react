@@ -34,49 +34,41 @@ const Contact = () => {
 
       <div className="contact__container container grid">
         <div className="contact__content">
-          <h3 className="contact__title">Talk to me</h3>
+          <h3 className="contact__title">Connect me</h3>
           <div className="contact__info">
             <div className="contact__card">
               <i className="bx bx-mail-send contact__card-icon"></i>
               <h3 className="contact__card-title">Email</h3>
-              <span className="contact__card-data">
-                fayiskalappulan@gmail.com
-              </span>
-              <br />
               <a
                 href="mailto:fayiskalappulan@gmail.com"
                 className="contact__button"
               >
-                Write me
-                <i className="bx bx-right-arrow-alt contact__button-icon"></i>
+                fayiskalappulan@gmail.com
+                <i className="uil uil-angle-double-right contact__button-icon"></i>
               </a>
             </div>
 
             <div className="contact__card">
               <i className="bx bxl-whatsapp contact__card-icon"></i>
               <h3 className="contact__card-title">Whatsapp</h3>
-              <span className="contact__card-data">+91 830 1991 670</span>
-              <br />
               <a
                 href="https://api.whatsapp.com/send?phone=+918301991670&text=Hello, more information!"
                 className="contact__button"
               >
-                Write me
-                <i className="bx bx-right-arrow-alt contact__button-icon"></i>
+                +91 830 1991 670
+                <i className="uil uil-angle-double-right contact__button-icon"></i>
               </a>
             </div>
 
             <div className="contact__card">
               <i className="bx bxl-instagram contact__card-icon"></i>
               <h3 className="contact__card-title">Instagram</h3>
-              <span className="contact__card-data">@mohmd_fayiz_</span>
-              <br />
               <a
                 href="https://ig.me/m/mohmd_fayiz_"
                 className="contact__button"
               >
-                Write me
-                <i className="bx bx-right-arrow-alt contact__button-icon"></i>
+                @mohmd_fayiz_
+                <i className="uil uil-angle-double-right contact__button-icon"></i>
               </a>
             </div>
           </div>
@@ -121,7 +113,7 @@ const Contact = () => {
                 type="text"
                 id="message"
                 name="message"
-                cols={30}
+                cols={20}
                 rows={10}
                 className="contact__form-input"
                 placeholder="Write your Message"

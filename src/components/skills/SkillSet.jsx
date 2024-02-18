@@ -79,7 +79,7 @@ const SkillSet = () => {
         </div>
         <div className="skills__data">
           <div className="skills__icon-container">
-            <img src={NodejsIcon} alt="Nodejs" className="skills__icon" />
+            <img src={NodejsIcon} alt="Node.js" className="skills__icon" />
           </div>
           <div>
             <span className="skills__name">Node js</span>

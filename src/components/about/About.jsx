@@ -1,24 +1,24 @@
 import "./about.css";
 import AboutImg from "../../assets/AboutImg.jpg";
-import Resume from "../../assets/MOHAMMED FAYIS K - RESUME.pdf";
+import resume from '../../assets/Mohammed Fayis - Resume.pdf'
 import Info from "./Info";
 
 const About = () => {
   return (
     <section className="about section" id="about">
       <h2 className="section__title">About Me</h2>
-      <span className="section__subtitle">My introduction</span>
+      <span className="section__subtitle">Get to Know Me</span>
 
       <div className="about__container container grid">
-        <img src={AboutImg} alt="about_img" className="about__img" />
+        <img src={AboutImg} alt="mohammed_fayis_imag" className="about__img" />
         <div className="about__data">
           <Info />
           <p className="about__description">
-            Full stack (MERN) developer with hands-on experience in the
-            designing, development and implementation of functional solutions
-            for problems.
+            Experienced Full Stack Developer dedicated to crafting creative
+            solutions. Skilled in designing, developing, and deploying reliable
+            applications to tackle real world problems.
           </p>
-          <a href={Resume} download={""} className="button button--flex">
+          <a href={resume} download={""} className="button button--flex">
             My Resume
             <svg
               className="button__icon"
