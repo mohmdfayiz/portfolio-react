@@ -8,7 +8,7 @@ export const projectsData = [
     id: 1,
     image: work1,
     title: "Foundr",
-    subtitle: "Co-founder matching platform",
+    subtitle: "Entrepreneur Networking Platform",
     link:'https://www.foundr.site'
   },
   {
@@ -23,13 +23,13 @@ export const projectsData = [
     image: work4,
     title: "Netfilx Clone",
     subtitle: "Netflix clone using TMDB API",
-    link:'https://netflix-ui-clone-01.netlify.app/'
+    link:'https://netflixx-clone.netlify.app/'
   },
   {
     id: 3,
     image: work3,
     title: "MyTrain",
-    subtitle: "Train details Application",
+    subtitle: "Trip Planning Platform",
     link:'http://mytrain-planyourtrip.netlify.app/'
   },
 ];

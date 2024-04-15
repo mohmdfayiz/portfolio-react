@@ -40,10 +40,10 @@ const Contact = () => {
               <i className="bx bx-mail-send contact__card-icon"></i>
               <h3 className="contact__card-title">Email</h3>
               <a
-                href="mailto:fayiskalappulan@gmail.com"
+                href="mailto:mohmdfayisk@gmail.com"
                 className="contact__button"
               >
-                fayiskalappulan@gmail.com
+                mohmdfayisk@gmail.com
                 <i className="uil uil-angle-double-right contact__button-icon"></i>
               </a>
             </div>

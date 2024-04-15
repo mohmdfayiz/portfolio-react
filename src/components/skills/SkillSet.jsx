@@ -11,10 +11,10 @@ import NextjsIcon from "../../assets/nextjs-icon.svg";
 import PostgresIcon from "../../assets/postgre.png";
 import BootstrapIcon from "../../assets/bootstrap.png";
 import TaiwindIcon from "../../assets/tailwindcss-icon.svg";
-import MaterialIcon from "../../assets/mu5.png";
 import FigmaIcon from "../../assets/figma.png";
 import GitIcon from "../../assets/git.png";
 import FirebaseIcon from "../../assets/firebase-icon.svg";
+import DockerIcon from "../../assets/docker-icon.png";
 import AwsIcon from "../../assets/aws-icon.webp";
 
 const SkillSet = () => {
@@ -131,14 +131,6 @@ const SkillSet = () => {
         </div>
         <div className="skills__data">
           <div className="skills__icon-container">
-            <img src={MaterialIcon} alt="MUI" className="skills__icon" />
-          </div>
-          <div>
-            <span className="skills__name">MUI</span>
-          </div>
-        </div>
-        <div className="skills__data">
-          <div className="skills__icon-container">
             <img src={FigmaIcon} alt="Figma" className="skills__icon" />
           </div>
           <div>
@@ -159,6 +151,14 @@ const SkillSet = () => {
           </div>
           <div>
             <span className="skills__name">Firebase</span>
+          </div>
+        </div>
+        <div className="skills__data">
+          <div className="skills__icon-container">
+            <img src={DockerIcon} alt="Docker" className="skills__icon" />
+          </div>
+          <div>
+            <span className="skills__name">Docker</span>
           </div>
         </div>
         <div className="skills__data">
