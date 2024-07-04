@@ -3,7 +3,7 @@ import CssIcon from "../../assets/css.png";
 import JsIcon from "../../assets/javascript.png";
 import TsIcon from "../../assets/typescript.png";
 import ReactIcon from "../../assets/react.png";
-import Redux from "../../assets/redux.png";
+import Nestjs from "../../assets/nestjs.png";
 import NodejsIcon from "../../assets/node.png";
 import ExpressIcon from "../../assets/express-original.svg";
 import MongoIcon from "../../assets/mongodb-original.svg";
@@ -66,15 +66,7 @@ const SkillSet = () => {
             <img src={NextjsIcon} alt="Next.js" className="skills__icon" />
           </div>
           <div>
-            <span className="skills__name">Next.js</span>
-          </div>
-        </div>
-        <div className="skills__data">
-          <div className="skills__icon-container">
-            <img src={Redux} alt="Redux" className="skills__icon" />
-          </div>
-          <div>
-            <span className="skills__name">Redux</span>
+            <span className="skills__name">Next js</span>
           </div>
         </div>
         <div className="skills__data">
@@ -91,6 +83,14 @@ const SkillSet = () => {
           </div>
           <div>
             <span className="skills__name">Express js</span>
+          </div>
+        </div>
+        <div className="skills__data">
+          <div className="skills__icon-container">
+            <img src={Nestjs} alt="Nestjs" className="skills__icon" />
+          </div>
+          <div>
+            <span className="skills__name">Nest js</span>
           </div>
         </div>
         <div className="skills__data">

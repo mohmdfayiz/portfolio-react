@@ -6,7 +6,7 @@ const WorkItems = ({ item }) => {
       <h3 className="work__title">{item.title}</h3>
       <span className="work__subtitle">{item.subtitle}</span>
       <a href={item.link} target="__blank" className="work__button">
-       View site
+       View Project
         <i className="uil uil-angle-double-right work__button-icon"></i>
       </a>
     </div>

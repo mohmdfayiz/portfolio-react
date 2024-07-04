@@ -54,9 +54,9 @@ const Data = () => {
         </svg>
       </h1>
 
-      <h3 className="home__subtitle">Full Stack Developer</h3>
+      <h3 className="home__subtitle">Software Developer</h3>
       <p className="home__description">
-        I&lsquo;am a self-taught full stack developer based in Kerala, India. I am
+        I&lsquo;am a self-taught full stack software developer based in Kerala, India. I am
         very passionate and dedicated to my work.
       </p>
 

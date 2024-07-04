@@ -14,7 +14,7 @@ const About = () => {
         <div className="about__data">
           <Info />
           <p className="about__description">
-            Experienced Full Stack Developer dedicated to crafting creative
+            Experienced Software Developer dedicated to crafting creative
             solutions. Skilled in designing, developing, and deploying reliable
             applications to tackle real world problems.
           </p>
