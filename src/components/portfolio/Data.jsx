@@ -1,4 +1,4 @@
-import work1 from "../../assets/fundfolio.png";
+import work1 from "../../assets/fundfolio-web.png";
 import work2 from "../../assets/foundr.png";
 import work3 from "../../assets/ride.png";
 import work4 from "../../assets/netflix.png";
@@ -9,7 +9,7 @@ export const projectsData = [
     image: work1,
     title: "Fundfolio",
     subtitle: "Personal Finance and Note Organizer",
-    link: 'https://drive.google.com/drive/folders/1lJAYbwqof9kNgeKTugp0xDV6Fwlzq6GH'
+    link: 'https://fundfolio.vercel.app/'
   },
   {
     id: 2,
