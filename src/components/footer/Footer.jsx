@@ -6,12 +6,12 @@ const Footer = () => {
       <div className="footer__container container">
         <div className="footer__social">
           <a
-            href="https://twitter.com/mohmd_fayis"
+            href="https://www.instagram.com/mohmd_fayiz_/"
             className="footer__social-link"
             rel="noreferrer"
             target="_blank"
           >
-            <i className="uil uil-twitter-alt"></i>
+            <i className="uil uil-instagram"></i>
           </a>
           <a
             href="https://www.linkedin.com/in/mohammedfayis/"
